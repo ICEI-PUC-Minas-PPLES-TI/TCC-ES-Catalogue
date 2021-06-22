@@ -39,7 +39,7 @@
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 |Daniel Machado Osorio Pereira | Associações entre atributos do processo de desenvolvimento e quantidade de erros e warnings detectados por verificação estática | Lesandro Ponciano | Lesandro Ponciano | Pesquisa | Humberto Torres Marques Neto & José Laerte Xavier Junior | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/0000759b.pdf)  |
-| Pedro Pongelupe Lopes | Pendente | Lesandro Ponciano | Humberto Torres Marques Neto | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano| Pendente|
+| Pedro Pongelupe Lopes | Análise de Métricas de Qualidade de Serviço em Aplicações de Mobilidade Humana Sensíveis ao Contexto Direcionadas ao Turismo | Lesandro Ponciano | Humberto Torres Marques Neto | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/00007533.pdf)|
 
 
 ### Aprovados em 2019 - 2º semestre
