@@ -2,7 +2,7 @@
 
 ## Catálogo de Trabalhos de Conclusão de Curso (TCC) em Engenharia de Software
 
-### 2021 1
+### Aprovados em 2021 - 1º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -22,7 +22,7 @@
 | Isabela E. Oliveira | Identificando Possíveis Problemas Gerados a Partir da Utilização de Metodologias Ágeis | Lesandro Ponciano  &  José Laerte| Simone Nogueira | Pesquisa | Lesandro Ponciano & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00009c/00009c6a.pdf) |
 | Luiz H. S. Jesus | Medindo Expertise de Desenvolvedores de Software: Um Estudo Quantitativo em Sistemas de Social Coding | Lesandro Ponciano & José Laerte | Simone Nogueira| Pesquisa | Alexandre Teixeira & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00009d/00009d96.pdf) |
 
-### 2020 2
+### Aprovados em 2020 - 2º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -34,19 +34,18 @@
 | Wilcson Esley Aparecido de Araujo | Analisando a Atividade de Manutenção de Software sob a Perspectiva da Qualidade  | Lesandro Ponciano | José Laerte Xavier Junior | Pesquisa | Hugo Bastos de Paula & Lesandro Ponciano| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000090/00009038.pdf) |
 
 
-### 2020 1
+### Aprovados em 2020 - 1º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 |Daniel Machado Osorio Pereira | Associações entre atributos do processo de desenvolvimento e quantidade de erros e warnings detectados por verificação estática | Lesandro Ponciano | Lesandro Ponciano | Pesquisa | Humberto Torres Marques Neto & José Laerte Xavier Junior | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/0000759b.pdf)  |
-| Pedro Pongelupe Lopes | ?? | Lesandro Ponciano | Humberto Torres Marques Neto | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano| ?? |
+| Pedro Pongelupe Lopes | Pendente | Lesandro Ponciano | Humberto Torres Marques Neto | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano| Pendente|
 
 
-### 2019 1
+### Aprovados em 2019 - 2º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 | Christyan Santos Rosa & Lucas Maffra Vieira | Simplificação do Processo de Configuração de uma Pipeline de Integração e Entrega Contínua no Jenkins  | Lesandro Ponciano | Lesandro Ponciano | Pesquisa |Maria Augusta Vieira Nelson & José Laerte Xavier Junior| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000056/00005672.pdf)|
 | Felipe Augusto Silva Marques | Análise Comparativa de Qualidade do Código-Fonte de Diferentes Classes de Navegadores Web para Sistemas Android  | Lesandro Ponciano | Lesandro Ponciano | Pesquisa | Maria Augusta Vieira Nelson & José Laerte Xavier Junior| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00004f/00004f97.pdf) |
 | Iara Siria Morais Lopes & Lucas Henrique de Faria Silva | Análise do Custo-Benefício de GraphQL em Comparação a REST e SOAP em Aplicações para Dispositivos Móveis  |Lesandro Ponciano | Lesandro Ponciano | Pesquisa |Maria Augusta Vieira Nelson & José Laerte Xavier Junior | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000056/000056cd.pdf) |
-# TCC-ES-Catalogue
