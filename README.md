@@ -1,6 +1,6 @@
-# PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+# Catálogo de Trabalhos de Conclusão de Curso
 
-## Catálogo de Trabalhos de Conclusão de Curso (TCC) em Engenharia de Software
+## Trabalhos aprovados no Bacharelado em Engenharia de Software
 
 ### Aprovados em 2021 - 1º semestre
 
