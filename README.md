@@ -2,6 +2,13 @@
 
 ## Trabalhos aprovados no Bacharelado em Engenharia de Software
 
+### Aprovados em 2021 - 2º semestre
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+| Ariel Santos Barcelos & Karolina Vaz Coelho | Guia de Desenvolvimento de Interface com o usuário (UI Guide) | Lesandro Ponciano & José Laerte |  Lesandro Ponciano | Desenvolvimento | Soraia Lúcia & Alexandre Teixeira  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a3/0000a3aa.pdf) |
+
+
 ### Aprovados em 2021 - 1º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
