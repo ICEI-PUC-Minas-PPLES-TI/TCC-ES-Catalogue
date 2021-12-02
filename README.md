@@ -7,6 +7,7 @@
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 | Gabriel Nascimento Cardoso & Lucas Fernandes Azevedo | Análise da Influência de Padrões de Projeto do _Gang of Four_ na Manutenibilidade de Software por meio de Experimentos Controlados | Lesandro Ponciano & José Laerte |  José Laerte | Pesquisa | Hugo Bastos de Paula & Pedro Alves  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a5/0000a5ce.pdf) |
+| Daniel Henrique Vargas & Rafael Araujo Badaro | Análise da abordagem de Aprendizagem Baseada em Projeto na aprendizagem de Gerência de Configuração de Software | Lesandro Ponciano & José Laerte |  Lesandro Ponciano | Pesquisa | Rommel Vieira Carneiro & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a4/0000a461.pdf) |
 | Ariel Santos Barcelos & Karolina Vaz Coelho | Guia de Desenvolvimento de Interface com o usuário (UI Guide) | Lesandro Ponciano & José Laerte |  Lesandro Ponciano | Desenvolvimento | Soraia Lúcia & Alexandre Teixeira  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a3/0000a3aa.pdf) |
 
 
