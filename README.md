@@ -8,6 +8,7 @@
 | --- | --- | --- | --- |--- | --- | --- |
 | Aylton Bernardino de Almeida Junior | Sistema de Gerência de Entregas por Oferta | Lesandro Ponciano & José Laerte |  José Laerte | Desenvolvimento | Hugo Bastos de Paula & Cleiton Tavares  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000004/00000465.pdf) |
 | Vítor Augusto Alves de Jesus | Classificação de feedbacks dos usuários em incidentes de software a partir de técnicas de Natural Language Processing | Lesandro Ponciano & José Laerte |  Hugo Bastos de Paula | Pesquisa | Cleia Marcia Gomes Amaral & Cleiton Tavares  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000004/0000042a.pdf) |
+| Paulo Francisco Pereira Neto | Análise da Utilização de Padrões de Projeto de Software em Sistemas Distribuídos, utilizando Arquitetura Limpa | Lesandro Ponciano & José Laerte |  Hugo Bastos de Paula | Pesquisa | Cleia Marcia Gomes Amaral & José Laerte  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000003/000003fc.pdf) |
 
 ### Aprovados em 2021 - 2º semestre
 
