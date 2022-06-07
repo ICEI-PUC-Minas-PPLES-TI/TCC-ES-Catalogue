@@ -2,6 +2,12 @@
 
 ## Trabalhos aprovados no Bacharelado em Engenharia de Software
 
+### Aprovados em 2022 - 1º semestre
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+| Aylton Bernardino de Almeida Junior | Sistema de Gerência de Entregas por Oferta | Lesandro Ponciano & José Laerte |  José Laerte | Desenvolvimento | Hugo Bastos de Paula & Cleiton Tavares  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000004/00000465.pdf) |
+
 ### Aprovados em 2021 - 2º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
