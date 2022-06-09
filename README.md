@@ -15,7 +15,7 @@
 | Matheus Santos Rosa Carneiro & Raissa Carolina Vilela da Silva | Analisando os Conflitos Que Surgem Entre os Requisitos Não Funcionais nos Estágios Iniciais de Projetos de Desenvolvimento de Software | Lesandro Ponciano & José Laerte | Joyce Carvalho | Pesquisa | José Laerte & Lucila Ishitani | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000004/000004ad.pdf) |
 | Pedro Henrique Marques Almeida & Werik Goncalves de Paula | Análise Comparativa das Características de Performance dos JavaScript Frameworks React e Vue | Lesandro Ponciano & José Laerte | Alexandre Teixeira  | Pesquisa | Johnatan Alves & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000004/00000433.pdf) |
 | Anderson Heráclito Gaspardine Júnior & Rita de Cassia Ramos Sobrinho | Análise da Influência da Qualidade de Requisitos na Construção de Matrizes de Rastreabilidade de Software | Lesandro Ponciano & José Laerte | José Laerte  | Pesquisa | Hugo Bastos de Paula & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000005/0000052d.pdf) |
-| Luiz Felipe de Castro Baia Antunes & Wesley Mouraria Pereira | Sistema de Engajamento de Clientes | Lesandro Ponciano & José Laerte | Alexandre Teixeira | Pesquisa | Johnatan Alves & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000005/0000052a.pdf) |
+| Luiz Felipe de Castro Baia Antunes & Wesley Mouraria Pereira | Sistema de Engajamento de Clientes | Lesandro Ponciano & José Laerte | Alexandre Teixeira | Desenvolvimento | Johnatan Alves & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000005/0000052a.pdf) |
 
 ### Aprovados em 2021 - 2º semestre
 
