@@ -2,6 +2,11 @@
 
 ## Trabalhos aprovados no Bacharelado em Engenharia de Software
 
+### Aprovados em 2022 - 2º semestre
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+
 ### Aprovados em 2022 - 1º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
