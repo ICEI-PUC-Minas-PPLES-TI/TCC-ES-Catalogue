@@ -6,6 +6,23 @@
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
+| Matheus Felipe Ferreira Martins | Análise da Influência da Multitarefa de Desenvolvedores no Ciclo de Vida de Issues do GitHub | José Laerte & Marco Rodrigo Costa |  José Laerte | Pesquisa | Cleia Amaral & Felipe Lara  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000011/00001181.pdf) | 
+| Marlon Henrique da Silva | API Valve | José Laerte & Marco Rodrigo Costa |  José Laerte | Desenvolvimento | Ilo Rivero & Pedro Alves  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/0000127c.pdf) | 
+| Laís Helena Oliveira de Paula & William Endrew Menegaldi | Análise do Impacto da Ocorrência de Self-Admitted Technical Debt na Manutenibilidade de Software | José Laerte & Marco Rodrigo Costa |  José Laerte | Pesquisa | Letícia Peixoto & Rodrigo Baroni  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/000012ad.pdf) | 
+| Arthur Rocha Amaral & Guilherme Oliveira Antônio | Covering | José Laerte & Marco Rodrigo Costa |  Cleiton Tavares | Desenvolvimento | Hugo Bastos de Paula & José Laerte  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000013/00001351.pdf) | 
+| Camila Silva Campos | Análise da Influência de Políticas de Proteção de Branch na Qualidade de Software em Pull Requests de Repositórios de Código Aberto | José Laerte & Marco Rodrigo Costa |  Rodrigo Baroni | Pesquisa | Cleiton Tavares & José Laerte  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/0000122b.pdf) | 
+| Gabriel Henrique Souza Haddad Campos | A Relação entre a Experiência de Engenheiros de Software e a Compreensão e Refatoração de Átomos de Confusão | José Laerte & Marco Rodrigo Costa |  Cleiton Tavares | Pesquisa | Alexandre Teixeira & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000013/00001341.pdf) |
+| Gabriel Moreira Chaves & Ian Bittencourt Andrade Jacinto | Identificação da estrutura de GitHub Wikis a partir de aprendizado de máquina | José Laerte & Marco Rodrigo Costa |  Hugo Bastos de Paula | Pesquisa | Cleia Amaral & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/00001211.pdf) | 
+| Arthur Gramiscelli Branco | Análise da Influência do Github Actions sobre a Qualidade do Código | José Laerte & Marco Rodrigo Costa |  Hugo Bastos de Paula | Pesquisa | Cleia Amaral & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000011/0000118d.pdf) | 
+| Andrew Costa Silva | Identificação e Caracterização de Test Smells em JavaScript | José Laerte & Marco Rodrigo Costa |  Cleiton Tavares | Pesquisa | Lucila Ishitani & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000014/000014ce.pdf) | 
+| Bruna da Silva Gonçalves | Gestão de Temporadas da Orquestra Filarmônica de Minas Gerais | Lesandro Ponciano & José Laerte |  Hugo Bastos de Paula | Desenvolvimento | Ilo Rivero & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000011/00001179.pdf) | 
+| Gustavo Henrique Martins Vieira | Estimativa de Software: Análise das Técnicas e Experiências de Profissionais Freelancers | José Laerte |  Rodrigo Baroni | Pesquisa | Lucila Ishitani & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000014/00001452.pdf) | 
+| Ana Luiza Silva Reis | Análise do impacto da utilização de Design Centrado no Usuário em projetos de Sistemas Integrados de Gestão Empresarial | Lesandro Ponciano & José Laerte |  Cleia Amaral | Pesquisa | Felipe Lara & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000011/00001163.pdf) | 
+| Bárbara Bruna Nogueira de Menezes & João Pedro Teles de Andrades Pereira | Telemed | José Laerte & Marco Rodrigo Costa |  Rodrigo Baroni | Desenvolvimento | Johnatan Alves & Pedro Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/000012c3.pdf) | 
+| Carlos Germano Avelar Carvalho & Lucas Pereira de Carvalho | Impactos da Gamificação no Desenvolvimento Ágil: Estudo de Caso em Startup utilizando o Scrum | José Laerte & Marco Rodrigo Costa |  Letícia Teixeira | Pesquisa | Cleiton Tavares & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/00001294.pdf) |
+| Laércio Nazareno Neto | Identificação dos Cenários que Influenciam a Acurácia do Algoritmo de Naive Bayes em Classificar o Code Smell Large Class | Lesandro Ponciano & José Laerte |  Johnatan Alves | Pesquisa | Lucila Ishitani & Alexandre Teixeira | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/000012f5.pdf) |
+
+
 
 ### Aprovados em 2022 - 1º semestre
 
