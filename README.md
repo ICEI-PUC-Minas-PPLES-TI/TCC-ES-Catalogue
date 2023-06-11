@@ -2,6 +2,30 @@
 
 ## Trabalhos aprovados no Bacharelado em Engenharia de Software
 
+### Aprovados em 2023 - 1º semestre
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+
 ### Aprovados em 2022 - 2º semestre
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
