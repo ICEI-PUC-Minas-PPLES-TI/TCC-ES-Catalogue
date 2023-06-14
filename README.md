@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Aprovados em 2023.1](#Aprovados-em-2023.1)
+- [Aprovados em 2023.1](#Aprovados-em-20231)
 - Aprovados em 2022.2
 - Aprovados em 2022.1
 - Aprovados em 2021.2
@@ -11,7 +11,7 @@
 - Aprovados em 2020.1
 - Aprovados em 2019.2
 
-## Aprovados em 2023.1
+## Aprovados em 20231
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo | Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
