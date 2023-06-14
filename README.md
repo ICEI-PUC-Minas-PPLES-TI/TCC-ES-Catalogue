@@ -9,7 +9,7 @@
 - [Aprovados em 2021-1](#Aprovados-em-2021-1)
 - [Aprovados em 2020-2](#Aprovados-em-2020-2)
 - [Aprovados em 2020-1](#Aprovados-em-2020-1)
-- [Aprovados em 2019-2](#Aprovados-em-2019-1)
+- [Aprovados em 2019-2](#Aprovados-em-2019-2)
 
 ## Aprovados em 2023-1
 
