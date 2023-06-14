@@ -4,27 +4,27 @@
 
 ### Aprovados em 2023 - 1º semestre
 
-| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo | Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
-|  |  | José Laerte & Cleiton Tavares & Simone de Assis |  | Pesquisa |   | [Biblioteca]() | 
+|  Altino Alves Júnior & Letícia de Souza Meireles | Um Estudo dos Frameworks Java Mais Populares sob a Ótica da Qualidade de Testes | José Laerte & Cleiton Tavares & Simone de Assis | Cleiton Tavares | Pesquisa | José Laerte & Matheus Alcântra | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002290.pdf) | 
+| Andre Luis da Silva |  | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa |   | [Biblioteca]() | 
+| André Silva Maurício da Rocha & Augusto Coutinho de Freitas |  | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa |   | [Biblioteca]() | 
+| Arthur Gregório Leal & Ian Guelman |  | José Laerte & Cleiton Tavares & Simone de Assis | Letícia Peixoto | Pesquisa |   | [Biblioteca]() | 
+| Bruno Henrique Armanelli & Lucas de Lima Soares |  | José Laerte & Cleiton Tavares & Simone de Assis | Letícia Peixoto | Pesquisa |   | [Biblioteca]() | 
+| Camilla Silva Romagnoli & Kesley Alexsandro Vieira Severino |  | José Laerte & Cleiton Tavares & Simone de Assis | Rodrigo Baroni | Pesquisa |   | [Biblioteca]() | 
+| Guilherme Campos Barata Diniz |  | José Laerte & Cleiton Tavares & Simone de Assis | José Laerte | Pesquisa |   | [Biblioteca]() | 
+| Gustavo Fernandes Silva & Matheus Guerra Ataide |  | José Laerte & Cleiton Tavares & Simone de Assis | Lucila Ishitani | Pesquisa |   | [Biblioteca]() | 
+| João Américo Martins Caiafa de Andrade |  | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa |   | [Biblioteca]() | 
+| Joao Marcos Lourenco dos Santos & Samuel Alves de Castro Baker |  | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa |   | [Biblioteca]() | 
+| Leonardo Antunes Barreto Noman & Weber Marques de Oliveira |  | José Laerte & Cleiton Tavares & Simone de Assis | João Caram | Pesquisa |   | [Biblioteca]() | 
+| Lorrayne Reis Silva |  | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa |   | [Biblioteca]() | 
+| Lucas Alves Gusmão |  | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa |   | [Biblioteca]() | 
+| Lucas Alves Rossi Figueira |  | José Laerte & Cleiton Tavares & Simone de Assis | Rodrigo Baroni | Pesquisa |   | [Biblioteca]() | 
+| Lucca Vieira Paz de Bessa & Tomás Antônio Costa Campos |  | José Laerte & Cleiton Tavares & Simone de Assis | Juliana Baroni | Desenvolvimento |   | [Biblioteca]() | 
+| Matthew Rachid Romie Nascimento & Thiago Jorge Queiroz Silva |  | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa |   | [Biblioteca]() | 
+| Otávio Vinícius Guimarães Silveira Rocha |  | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa |   | [Biblioteca]() | 
+| Paulo Henrique Cota Starling & Victor Augusto dos Santos |  | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa |   | [Biblioteca]() | 
+| Thalles Alves da Silva Sales |  | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa |   | [Biblioteca]() | 
 
 ### Aprovados em 2022 - 2º semestre
 
