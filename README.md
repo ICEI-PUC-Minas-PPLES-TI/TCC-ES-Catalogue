@@ -1,8 +1,43 @@
-# Catálogo de Trabalhos de Conclusão de Curso
+# Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software
 
-## Trabalhos aprovados no Bacharelado em Engenharia de Software
+## Índice
 
-### Aprovados em 2022 - 2º semestre
+- [Aprovados em 2023-1](#Aprovados-em-2023-1)
+- [Aprovados em 2022-2](#Aprovados-em-2022-2)
+- [Aprovados em 2022-1](#Aprovados-em-2022-1)
+- [Aprovados em 2021-2](#Aprovados-em-2021-2)
+- [Aprovados em 2021-1](#Aprovados-em-2021-1)
+- [Aprovados em 2020-2](#Aprovados-em-2020-2)
+- [Aprovados em 2020-1](#Aprovados-em-2020-1)
+- [Aprovados em 2019-2](#Aprovados-em-2019-2)
+
+## Aprovados em 2023-1
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo | Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+| André Silva Maurício da Rocha & Augusto Coutinho de Freitas | Uma Análise sobre a Complexidade de Refatorações Documentadas em Issues | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa | Ilo Rivero & Pedro Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002268.pdf) | 
+| Arthur Gregório Leal & Ian Guelman | Análise do Impacto da Aprendizagem Baseada em Projetos na Qualidade de Código | José Laerte & Cleiton Tavares & Simone de Assis | Letícia Peixoto | Pesquisa | Rommel Carneiro & Hugo Bastos | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001f/00001f4b.pdf) | 
+| Lucas Alves Rossi Figueira | Usabilidade e Experiência do Usuário: Análise das Resenhas de Aplicativos do Governo Federal Brasileiro | José Laerte & Cleiton Tavares & Simone de Assis | Rodrigo Baroni | Pesquisa | Cleia Amaral & Lucila Ishitani | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001f/00001f2c.pdf) | 
+| João Marcos Lourenco dos Santos & Samuel Alves de Castro Baker | Engajamento de Desenvolvedores no Processo de Revisão de Código: um Estudo sobre sua Influência na Legibilidade do Código | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa | Cleiton Tavares & Hugo Bastos | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/000022c4.pdf) | 
+| Lucca Vieira Paz de Bessa & Tomás Antônio Costa Campos | Sistema de Gerenciamento de Fluxo de Caixa de Obras | José Laerte & Cleiton Tavares & Simone de Assis | Juliana Baroni | Desenvolvimento | José Laerte & Matheus Alcântra | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/00002016.pdf) | 
+| Lucas Alves Gusmão | An Analysis On the Performance of Virtual Document Object Models | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa | Cleiton Tavares & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000023/00002322.pdf) | 
+| Paulo Henrique Cota Starling & Victor Augusto dos Santos | GitHub Actions: Uma Análise do Impacto de Actions de Code Quality e Code Review em Repositórios Open-Source do GitHub | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa | Alexandre Teixeira & Aline Brito | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/000020b3.pdf) | 
+| Otávio Vinícius Guimarães Silveira Rocha | Análise da Qualidade do Código-Fonte de Educadores que lecionam em Plataformas MOOC | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa | Cleiton Tavares & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/0000208a.pdf) |
+| Camilla Silva Romagnoli & Kesley Alexsandro Vieira Severino | Análise do uso de técnicas de ofuscação de código no desenvolvimento de aplicativos Android | José Laerte & Cleiton Tavares & Simone de Assis | Rodrigo Baroni | Pesquisa | Lucila Ishitani & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001e/00001efb.pdf) | 
+| Gustavo Fernandes Silva & Matheus Guerra Ataide | Análise da adoção de conteúdos de Engenharia de Software Verde em cursos de graduação em Engenharia de Software | José Laerte & Cleiton Tavares & Simone de Assis | Lucila Ishitani | Pesquisa | Cleia Amaral & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001e/00001eb1.pdf) | 
+|  Altino Alves Júnior & Letícia de Souza Meireles | Um Estudo dos Frameworks Java Mais Populares sob a Ótica da Qualidade de Testes | José Laerte & Cleiton Tavares & Simone de Assis | Cleiton Tavares | Pesquisa | José Laerte & Matheus Alcântra | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002290.pdf) | 
+| Bruno Henrique Armanelli & Lucas de Lima Soares | Análise do impacto do uso de bots na comunicação tóxica em repositórios no Github | José Laerte & Cleiton Tavares & Simone de Assis | Letícia Peixoto | Pesquisa | Felipe Reis & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/0000207e.pdf) | 
+| Matthew Rachid Romie Nascimento & Thiago Jorge Queiroz Silva | Análise Quantitativa das Co-Ocorrências de Code Smells em Repositórios iOS de Código Aberto do GitHub | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa |  Aline Brito & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000023/00002344.pdf) |
+| Thalles Alves da Silva Sales | Onboarding of Software Engineers Hired Through Staff augmentation Mechanisms in multicultural, Remote Teams | José Laerte & Cleiton Tavares & Simone de Assis | Aline Brito | Pesquisa | Johnatan Alves & Rommel Carneiro | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002296.pdf) |
+| Guilherme Campos Barata Diniz | Análise da Relação entre a Granularidade da Descrição de Tarefas do TDD e a Qualidade Externa de Código | José Laerte & Cleiton Tavares & Simone de Assis | José Laerte | Pesquisa | Ilo Rivero & Pedro Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001e/00001eda.pdf) |
+| Andre Luis da Silva | Estudo da influência de atributos na resolução de Issues no GitHub | José Laerte & Cleiton Tavares & Simone de Assis | Hugo Bastos | Pesquisa | João Caram & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00001f/00001ff8.pdf) | 
+| João Américo Martins Caiafa de Andrade | Identificando Casos de Folga Social em Repositórios de Código Aberto | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa | Felipe Reis & Letícia Peixoto | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002299.pdf) | 
+| Lorrayne Reis Silva | Análise da Relação Entre Code Smells e Métricas Qualitativas em Repositórios do GitHub de Sistemas de Direção Autônoma | José Laerte & Cleiton Tavares & Simone de Assis | Johnatan Alves | Pesquisa | Felipe Lara & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002298.pdf) | 
+| Leonardo Antunes Barreto Noman & Weber Marques de Oliveira | Análise Quantitativa Entre Códigos Funcionais E Orientado A Objetos Em Python | José Laerte & Cleiton Tavares & Simone de Assis | João Caram | Pesquisa | Alexandre Teixeira & Hugo Bastos | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000023/0000236c.pdf) |
+
+[↑ topo](#índice)
+
+## Aprovados em 2022-2
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -22,9 +57,9 @@
 | Carlos Germano Avelar Carvalho & Lucas Pereira de Carvalho | Impactos da Gamificação no Desenvolvimento Ágil: Estudo de Caso em Startup utilizando o Scrum | José Laerte & Marco Rodrigo Costa |  Letícia Teixeira | Pesquisa | Cleiton Tavares & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/00001294.pdf) |
 | Laércio Nazareno Neto | Identificação dos Cenários que Influenciam a Acurácia do Algoritmo de Naive Bayes em Classificar o Code Smell Large Class | Lesandro Ponciano & José Laerte |  Johnatan Alves | Pesquisa | Lucila Ishitani & Alexandre Teixeira | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000012/000012f5.pdf) |
 
+[↑ topo](#índice)
 
-
-### Aprovados em 2022 - 1º semestre
+## Aprovados em 2022-1
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -39,7 +74,9 @@
 | Anderson Heráclito Gaspardine Júnior & Rita de Cassia Ramos Sobrinho | Análise da Influência da Qualidade de Requisitos na Construção de Matrizes de Rastreabilidade de Software | Lesandro Ponciano & José Laerte | José Laerte  | Pesquisa | Hugo Bastos de Paula & Johnatan Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000005/0000052d.pdf) |
 | Luiz Felipe de Castro Baia Antunes & Wesley Mouraria Pereira | Sistema de Engajamento de Clientes | Lesandro Ponciano & José Laerte | Alexandre Teixeira | Desenvolvimento | Johnatan Alves & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000005/0000052a.pdf) |
 
-### Aprovados em 2021 - 2º semestre
+[↑ topo](#índice)
+
+## Aprovados em 2021-2
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -56,8 +93,9 @@
 | Daniel Henrique Vargas & Rafael Araujo Badaro | Análise da abordagem de Aprendizagem Baseada em Projeto na aprendizagem de Gerência de Configuração de Software | Lesandro Ponciano & José Laerte |  Lesandro Ponciano | Pesquisa | Rommel Vieira Carneiro & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a4/0000a461.pdf) |
 | Ariel Santos Barcelos & Karolina Vaz Coelho | Guia de Desenvolvimento de Interface com o usuário (UI Guide) | Lesandro Ponciano & José Laerte |  Lesandro Ponciano | Desenvolvimento | Soraia Lúcia & Alexandre Teixeira  | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000a3/0000a3aa.pdf) |
 
+[↑ topo](#índice)
 
-### Aprovados em 2021 - 1º semestre
+## Aprovados em 2021-1
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -77,7 +115,9 @@
 | Isabela E. Oliveira | Identificando Possíveis Problemas Gerados a Partir da Utilização de Metodologias Ágeis | Lesandro Ponciano  &  José Laerte| Simone Nogueira | Pesquisa | Lesandro Ponciano & José Laerte | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00009c/00009c6a.pdf) |
 | Luiz H. S. Jesus | Medindo Expertise de Desenvolvedores de Software: Um Estudo Quantitativo em Sistemas de Social Coding | Lesandro Ponciano & José Laerte | Simone Nogueira| Pesquisa | Alexandre Teixeira & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00009d/00009d96.pdf) |
 
-### Aprovados em 2020 - 2º semestre
+[↑ topo](#índice)
+
+## Aprovados em 2020-2
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
@@ -88,19 +128,23 @@
 | Pedro Henrique dos Santos Araújo & Tiago Antunes Pereira| Fatores que necessitam de reconfiguração em times de desenvolvimento ágil dispersos geograficamente decorrente do COVID-19  | Lesandro Ponciano | Hugo Bastos de Paula | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00008e/00008ecc.pdf)  |
 | Wilcson Esley Aparecido de Araujo | Analisando a Atividade de Manutenção de Software sob a Perspectiva da Qualidade  | Lesandro Ponciano | José Laerte Xavier Junior | Pesquisa | Hugo Bastos de Paula & Lesandro Ponciano| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000090/00009038.pdf) |
 
+[↑ topo](#índice)
 
-### Aprovados em 2020 - 1º semestre
+## Aprovados em 2020-1
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 |Daniel Machado Osorio Pereira | Associações entre atributos do processo de desenvolvimento e quantidade de erros e warnings detectados por verificação estática | Lesandro Ponciano | Lesandro Ponciano | Pesquisa | Humberto Torres Marques Neto & José Laerte Xavier Junior | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/0000759b.pdf)  |
 | Pedro Pongelupe Lopes | Análise de Métricas de Qualidade de Serviço em Aplicações de Mobilidade Humana Sensíveis ao Contexto Direcionadas ao Turismo | Lesandro Ponciano | Humberto Torres Marques Neto | Pesquisa | José Laerte Xavier Junior & Lesandro Ponciano| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/00007533.pdf)|
 
+[↑ topo](#índice)
 
-### Aprovados em 2019 - 2º semestre
+## Aprovados em 2019-2
 
 | Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo| Banca de TCC II | Texto Final|
 | --- | --- | --- | --- |--- | --- | --- |
 | Christyan Santos Rosa & Lucas Maffra Vieira | Simplificação do Processo de Configuração de uma Pipeline de Integração e Entrega Contínua no Jenkins  | Lesandro Ponciano | Lesandro Ponciano | Pesquisa |Maria Augusta Vieira Nelson & José Laerte Xavier Junior| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000056/00005672.pdf)|
 | Felipe Augusto Silva Marques | Análise Comparativa de Qualidade do Código-Fonte de Diferentes Classes de Navegadores Web para Sistemas Android  | Lesandro Ponciano | Lesandro Ponciano | Pesquisa | Maria Augusta Vieira Nelson & José Laerte Xavier Junior| [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/00004f/00004f97.pdf) |
 | Iara Siria Morais Lopes & Lucas Henrique de Faria Silva | Análise do Custo-Benefício de GraphQL em Comparação a REST e SOAP em Aplicações para Dispositivos Móveis  |Lesandro Ponciano | Lesandro Ponciano | Pesquisa |Maria Augusta Vieira Nelson & José Laerte Xavier Junior | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/000056/000056cd.pdf) |
+
+[↑ topo](#índice)
