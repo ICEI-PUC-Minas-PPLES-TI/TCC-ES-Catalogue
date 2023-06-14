@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Aprovados em 2023.1](#aprovados-em-2023.1)
+- [Aprovados em 2023.1](#Aprovados-em-2023.1)
 - Aprovados em 2022.2
 - Aprovados em 2022.1
 - Aprovados em 2021.2
