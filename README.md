@@ -2,6 +2,7 @@
 
 ## Índice
 
+- [Aprovados em 2023-2](#Aprovados-em-2023-2)
 - [Aprovados em 2023-1](#Aprovados-em-2023-1)
 - [Aprovados em 2022-2](#Aprovados-em-2022-2)
 - [Aprovados em 2022-1](#Aprovados-em-2022-1)
@@ -10,6 +11,27 @@
 - [Aprovados em 2020-2](#Aprovados-em-2020-2)
 - [Aprovados em 2020-1](#Aprovados-em-2020-1)
 - [Aprovados em 2019-2](#Aprovados-em-2019-2)
+
+## Aprovados em 2023-2
+
+| Alunos | Título | Orientador do TCC I | Orientador do TCC II | Tipo | Banca de TCC II | Texto Final|
+| --- | --- | --- | --- |--- | --- | --- |
+| Alexandre Junior Simon & Thiago Oliveira Silva | Análise da Integração Contínua na Qualidade do Código-Fonte de Aplicações Web | José Laerte & Cleiton Tavares | Danilo Boechat | PES | José Laerte & Juliana Padilha | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bd/0000bdfd.pdf) | 
+| Arthur Henrique Souza Braga | Análise dos Benefícios da Combinação da Técnica de Mutação de Testes e do Desenvolvimento Guiado a Testes | José Laerte & Cleiton Tavares & Simone de Assis | José Laerte & Johnatan Alves | PES | Cleiton Tavares & Lucila Ishitani | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000ba/0000bad8.pdf) | 
+| Bruno Silveira Cerqueira Lima | Análise Comparativa de Fatores de Desempenho na Adoção de Frameworks de Desenvolvimento Web Backend | José Laerte & Cleiton Tavares | Hugo Bastos | PES | Cleiton Tavares & Gabriel Barbosa | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bb/0000bb01.pdf) | 
+| Cássio Thiago Araújo Costa | Segura Cacau | José Laerte & Cleiton Tavares & Simone de Assis | Rodrigo Baroni | DEV | José Laerte & Cleiton Tavares | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bb/0000bb3f.pdf) | 
+| Erika Marcia Pereira Sardinha | Um Estudo Exploratório da Documentação de Self-Admitted Usability Technical Debt em Issues do Github | José Laerte & Cleiton Tavares | José Laerte | PES | Cleiton Tavares & Danilo Boechat | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000be/0000be10.pdf) | 
+| Guilherme Gabriel Silva Pereira & Lucas Ângelo Oliveira Martins Rocha | GitGrade | José Laerte & Cleiton Tavares | Cleiton Tavares | DEV | Hugo Bastos & Lesandro Ponciano | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000be/0000be8a.pdf) | 
+| Guilherme Henrique Ladislau Biagini & Lucas Moura Pereira | Análise da Sobrecarga de Trabalho na Qualidade do Código em Sistemas Abertos no GitHub | José Laerte & Cleiton Tavares | Lucila Ishitani | PES | Alexandre Teixeira & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bd/0000bd54.pdf) | 
+| Henrique Andrade Cruz & Leonardo Viggiano Souza do Carmo | Flinstons | José Laerte & Cleiton Tavares | Hugo Bastos | DEV | José Laerte & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000ba/0000bacc.pdf) | 
+| Henrique Penna Forte Monteiro & Victor Boaventura Goes Campos | RepoMonitor | José Laerte & Cleiton Tavares | Cleiton Tavares | DEV | Daniel Capanema & Gabriel Barbosa | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bd/0000bd7b.pdf) | 
+| João Guilherme Martins Borborema | Comparando UiPath e Automation Anywhere Aplicados ao Teste Automatizado da Interface Gráfica do Usuário | José Laerte & Cleiton Tavares | Lucila Ishitani | PES | Cleiton Tavares & Ilo Rivero | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bb/0000bb17.pdf) | 
+| João Victor Tadeu Chaves Frois & Lucas Gabriel Padrão Rezende | Terraform e CDK: Uma Análise Comparativa entre Tecnologias de Gerência de Infraestrutura | José Laerte & Cleiton Tavares | José Laerte & Johnatan Alves | PES | Ilo Rivero & Pedro Alves | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000ba/0000bad7.pdf) | 
+| Leticia Amanda Franco Goncalves & Octavio Tabai Ribeiro Lage | Análise de Incompatibilidade entre Licenças em Projetos de Código Aberto | José Laerte & Cleiton Tavares | Rodrigo Baroni | PES | Alexandre Teixeira & Aline Brito | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bd/0000bd17.pdf) | 
+| Vinicius Marini Costa e Oliveira | Avaliações de Usuários em Lojas de Aplicativos: Análise de Detecção de Falhas e Vulnerabilidades em Sistemas de Investimento | José Laerte & Cleiton Tavares | Rodrigo Baroni | PES | Aline Brito & Hugo Bastos | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bb/0000bb81.pdf) | 
+| Vítor Marcondes Morais Carmo | Análise da Insteração de Deficientes Visuais com Sites Governamentais: Estudo de Caso do Site da Assembleia Legislativa de Minas Gerais | José Laerte & Cleiton Tavares & Simone de Assis | Lucila Ishitani | PES | Aline Brito & Rodrigo Baroni | [Biblioteca](http://bib.pucminas.br:8080/pergamumweb/vinculos/0000bd/0000bd82.pdf) | 
+
+[↑ topo](#índice)
 
 ## Aprovados em 2023-1
 
